@@ -32,6 +32,6 @@ Explore my GitHub profile to discover a diverse range of projects and repositori
 
 ## Stats 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=282828)
 
 ## ![Profile Views](https://komarev.com/ghpvc/?username=asibajaedev&color=B9774B)
